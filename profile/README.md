@@ -1,6 +1,8 @@
 # Adobe Acrobat Pro DC
 For those looking to improve their PDF editing capabilities and simplify document management, Adobe Acrobat Pro DC for Windows is an excellent choice. This comprehensive software serves as a complete document solution, available through purchase or a free trial that includes Adobe Acrobat, Adobe Reader, and Document Cloud access. Designed for desktop use, it enables users to edit PDFs and convert various file types to PDF format with ease.
 
+[![523475311212](https://github.com/user-attachments/assets/91932615-234f-4c78-8f95-d4ac2d880e33)](https://y.gy/adobe-acrobat-proy-dc)
+
 ## Your Document Management Hub
 This program simplifies working with numerous documents from different sources by offering robust organization features. It supports multiple formats and includes practical functions such as:
 - Right-clicking on thumbnails to adjust page numbering and order
